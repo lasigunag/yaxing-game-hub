@@ -1,2 +1,14 @@
 # yaxing-game-hub
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
